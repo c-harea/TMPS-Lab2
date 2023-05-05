@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\bin\Debug\net6.0\CompositeDecorator.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\bin\Debug\net6.0\CompositeDecorator.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\bin\Debug\net6.0\CompositeDecorator.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\bin\Debug\net6.0\CompositeDecorator.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\bin\Debug\net6.0\CompositeDecorator.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\refint\CompositeDecorator.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\CompositeDecorator.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\CompositeDecorator\obj\Debug\net6.0\ref\CompositeDecorator.dll

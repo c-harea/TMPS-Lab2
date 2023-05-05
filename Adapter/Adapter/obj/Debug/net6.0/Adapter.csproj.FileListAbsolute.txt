@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll

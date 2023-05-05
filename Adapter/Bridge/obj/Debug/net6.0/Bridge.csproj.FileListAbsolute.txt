@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\bin\Debug\net6.0\Bridge.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\bin\Debug\net6.0\Bridge.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\bin\Debug\net6.0\Bridge.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\bin\Debug\net6.0\Bridge.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab2\Adapter\Bridge\obj\Debug\net6.0\ref\Bridge.dll
